@@ -1,0 +1,31 @@
+{
+  "name": "explore-testing",
+  "version": "0.0.1",
+  "description": "Exploring testing based on Kent C. Dodds",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fyfirman/explore-testing.git"
+  },
+  "keywords": [
+    "explore",
+    "testing",
+    "jest",
+    "rtl"
+  ],
+  "author": "Firmansyah Yanuar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fyfirman/explore-testing/issues"
+  },
+  "homepage": "https://github.com/fyfirman/explore-testing#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.2",
+    "@babel/preset-env": "^7.18.2",
+    "babel-jest": "^28.1.0",
+    "jest": "^28.1.0"
+  }
+}
